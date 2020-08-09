@@ -24,6 +24,7 @@ https://en.wikipedia.org/wiki/Greek_language
 
 
 - Failure case 2 (stuck in a loop):
+
 Using random URL: https://en.wikipedia.org/wiki/Special:Random
 
 https://en.wikipedia.org/wiki/Glimmen
@@ -59,6 +60,7 @@ https://en.wikipedia.org/wiki/Language
 
 
 - Success case (Got to Philosophy successfully):
+
 Using random URL: https://en.wikipedia.org/wiki/Special:Random
 
 https://en.wikipedia.org/wiki/Reggae
@@ -74,5 +76,6 @@ https://en.wikipedia.org/wiki/Creativity
 https://en.wikipedia.org/wiki/Idea
 
 https://en.wikipedia.org/wiki/Philosophy
+
 [SUCCESS] 'Philosphy' article reached after 7 hops!
 
