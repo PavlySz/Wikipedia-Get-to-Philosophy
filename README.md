@@ -11,6 +11,7 @@ The program receives a Wikipedia link as an input, go to another normal link and
 
 ### Sample output
 - Failure case 1 (Arrive at a website with no links):
+
 Using random URL: https://en.wikipedia.org/wiki/Special:Random
 
 https://en.wikipedia.org/wiki/Greek_vase_painting
@@ -22,7 +23,7 @@ https://en.wikipedia.org/wiki/Greek_language
 [FAIL] Arrived at an article with no links. Aborted!
 
 
-2 - Success case (stuck in a loop):
+- Failure case 2 (stuck in a loop):
 Using random URL: https://en.wikipedia.org/wiki/Special:Random
 
 https://en.wikipedia.org/wiki/Glimmen
@@ -57,7 +58,7 @@ https://en.wikipedia.org/wiki/Language
 
 
 
-3 - Success case (Got to Philosophy successfully):
+- Success case (Got to Philosophy successfully):
 Using random URL: https://en.wikipedia.org/wiki/Special:Random
 
 https://en.wikipedia.org/wiki/Reggae
